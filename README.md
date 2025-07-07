@@ -8,6 +8,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Create.+Learn.+Develop." alt="Typing SVG" />
 </p>
+<img src="assets/banner.png" alt="Komal Sharma - Web Developer Banner" style="width:100%;"/>
+
 
 ## 🚀 About Me
 
