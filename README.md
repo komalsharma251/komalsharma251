@@ -63,7 +63,7 @@ Web apps that use AI for productivity, resume-building, or interactive learning.
 - 🔗 [LinkedIn](https://linkedin.com/in/komalsharma251)  
 - 📧 [Email](komalsharma251@gmail.com)  
 - 🌐 Personal Portfolio: *Coming soon!*
-- 🔗 [Portfolio Website Generator](https://github.com/komalsharma251/portfolio-website-generator)
+
 
 
 <p align="left">
@@ -91,6 +91,7 @@ Web apps that use AI for productivity, resume-building, or interactive learning.
 ---
 
 > _“Code is not just syntax — it’s creativity, logic, and endless possibilities.”_
+🔗 [Portfolio Website Generator](https://github.com/komalsharma251/portfolio-website-generator)
 
 Thanks for visiting my GitHub! Feel free to check out my work, follow my progress, or connect 😊
 
