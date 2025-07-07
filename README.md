@@ -1,3 +1,13 @@
+<!-- GitHub Profile README for komal -->
+
+<h1 align="center">Hey there, I'm Komal 👾</h1>
+<p align="center">
+  <i>Learner | Developer In Progress | Passionate | Enthusiastic </i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Create.+Conquer.+Dance." alt="Typing SVG" />
+</p>
 # 👋 Hi there, I’m Komal Sharma
 
 🎓 **Web Developer with AI + Internship** Student at **TriOS College**  
