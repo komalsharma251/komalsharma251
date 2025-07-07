@@ -61,10 +61,9 @@ Web apps that use AI for productivity, resume-building, or interactive learning.
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/komalsharma251)  
-- 📧 [Email](mailto:komalsharma251@gmail.com)  
+- 📧 [Email](komalsharma251@gmail.com)  
 - 🌐 Personal Portfolio: *Coming soon!*
 
----
 <p align="left">
   <a href="https://github.com/komalsharma251" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
 </p>
