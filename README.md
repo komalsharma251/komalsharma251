@@ -82,16 +82,19 @@ Thanks for visiting my GitHub! Feel free to check out my work, follow my progres
 ## 📣 Let's Connect!
 
 <p align="left">
-  <a href="https://github.com/dakuma" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://soundcloud.com/YOUR-SOUNDCLOUD" target="_blank"><img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-ff7700?style=flat&logo=soundcloud&logoColor=white" /></a>
+  <a href="https://github.com/komalsharma251" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
+ - 🔗 [LinkedIn](https://linkedin.com/in/komalsharma251)  
+ - 📧 [Email](mailto:komalsharma251@gmail.com)  
+ - 🌐 Personal Portfolio: *Coming soon!*
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakuma&show_icons=true&theme=tokyonight" alt="Neo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=komalsharma251&show_icons=true&theme=tokyonight" alt="komal's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakuma&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalsharma251&theme=tokyonight" />
 </p>
