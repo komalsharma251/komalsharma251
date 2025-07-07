@@ -6,19 +6,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Create.+Conquer.+Dance." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Create.+Learn.+ Develop." alt="Typing SVG" />
 </p>
-# 👋 Hi there, I’m Komal Sharma
+## 🚀 About Me
 
 🎓 **Web Developer with AI + Internship** Student at **TriOS College**  
 📍 Canada | 💻 Aspiring Full-Stack Developer | 🧠 AI Enthusiast  
 🌟 62-week immersive program focused on building real-world web applications and AI-powered solutions
 
 ---
-
-## 🚀 About Me
-
-I’m currently enrolled in a 62-week **Web Developer with AI + Internship** program, where I’m learning:
+where I’m learning:
 
 - 📚 **Web Development Fundamentals**
 - 🎨 **Design & UI/UX Principles**
